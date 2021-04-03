@@ -1,0 +1,6 @@
+.idea/
+.ipynb_checkpoints
+venv/
+geckodriver.log
+scraper/texturesdotcom/htmls
+__pycache__
